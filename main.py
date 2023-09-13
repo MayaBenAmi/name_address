@@ -5,6 +5,7 @@ print(" Hello Enter your  name: ")
 print("dolphin")
 print('pig')
 print("parrot")
+print('bye')
 
 
 """
